@@ -25,6 +25,8 @@ body{
 	padding: 30px;
 	border-radius: 30px;
 	background: linear-gradient(to bottom, #007193 50%, #06024e);
+	border:  10px double black ;
+
 }
 h1{
 	margin: 0 0 20px;
